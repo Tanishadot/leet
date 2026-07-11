@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Tanishadot/leet/tree/master/0001-two-sum) |
 | [0187-repeated-dna-sequences](https://github.com/Tanishadot/leet/tree/master/0187-repeated-dna-sequences) |
+| [0217-contains-duplicate](https://github.com/Tanishadot/leet/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Tanishadot/leet/tree/master/0001-two-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanishadot/leet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Tanishadot/leet/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanishadot/leet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Tanishadot/leet/tree/master/0217-contains-duplicate) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
