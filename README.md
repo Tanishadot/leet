@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tanishadot/leet/tree/master/0001-two-sum) |
 | [0187-repeated-dna-sequences](https://github.com/Tanishadot/leet/tree/master/0187-repeated-dna-sequences) |
 ## String
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tanishadot/leet/tree/master/0001-two-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanishadot/leet/tree/master/0215-kth-largest-element-in-an-array) |
 ## Divide and Conquer
 |  |
