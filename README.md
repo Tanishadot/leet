@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Tanishadot/leet/tree/master/0001-two-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanishadot/leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Tanishadot/leet/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Tanishadot/leet/tree/master/0238-product-of-array-except-self) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanishadot/leet/tree/master/0215-kth-largest-element-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Tanishadot/leet/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
