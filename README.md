@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Tanishadot/leet/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/Tanishadot/leet/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/Tanishadot/leet/tree/master/0217-contains-duplicate) |
+| [0567-permutation-in-string](https://github.com/Tanishadot/leet/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanishadot/leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Tanishadot/leet/tree/master/0187-repeated-dna-sequences) |
+| [0567-permutation-in-string](https://github.com/Tanishadot/leet/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanishadot/leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Tanishadot/leet/tree/master/0187-repeated-dna-sequences) |
+| [0567-permutation-in-string](https://github.com/Tanishadot/leet/tree/master/0567-permutation-in-string) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tanishadot/leet/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Tanishadot/leet/tree/master/0075-sort-colors) |
+| [0567-permutation-in-string](https://github.com/Tanishadot/leet/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
