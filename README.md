@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanishadot/leet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0091-decode-ways](https://github.com/Tanishadot/leet/tree/master/0091-decode-ways) |
 | [0187-repeated-dna-sequences](https://github.com/Tanishadot/leet/tree/master/0187-repeated-dna-sequences) |
 | [0567-permutation-in-string](https://github.com/Tanishadot/leet/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Tanishadot/leet/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Tanishadot/leet/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Tanishadot/leet/tree/master/0198-house-robber) |
 ## Memoization
 |  |
