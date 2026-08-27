@@ -101,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tanishadot/leet/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Tanishadot/leet/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
