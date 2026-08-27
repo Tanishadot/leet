@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Tanishadot/leet/tree/master/0070-climbing-stairs) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tanishadot/leet/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Tanishadot/leet/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tanishadot/leet/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
